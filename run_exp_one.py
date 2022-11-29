@@ -4,6 +4,8 @@ import os
 import sys
 import openai
 
+ROOT_DIR = os.path.dirname(os.path.realpath(__file__))
+
 # from https://github.com/tonyzhaozh/few-shot-learning/blob/main/utils.py
 def complete(prompt, l, model_name, temp=0, num_log_probs=None, echo=False, n=None):
     with open(os.path.join(ROOT_DIR, 'openai_key.txt'), 'r') as f:
