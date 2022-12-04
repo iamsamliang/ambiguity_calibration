@@ -1,92 +1,114 @@
 [
     {
-        "query": "Scott Kazmir plays for _X_.",
+        "query": "Glenda Rond\u00e1n is a member of the _X_.",
         "answer": [
             {
-                "wikidata_id": "Q743309",
-                "name": "Los Angeles Angels"
+                "wikidata_id": "Q1066799",
+                "name": "Broad Front"
+            },
+            {
+                "wikidata_id": "Q1430823",
+                "name": "Colorado Party"
             }
-        ]
+        ],
+        "date": "2010"
     },
     {
-        "query": "Ole Sohn is a member of the _X_.",
+        "query": "Anne-Sophie Lapix works for _X_.",
         "answer": [
             {
-                "wikidata_id": "Q615603",
-                "name": "Socialist People's Party"
+                "wikidata_id": "Q1032540",
+                "name": "Canal+"
             }
-        ]
+        ],
+        "date": "2010"
     },
     {
-        "query": "Carol van Driel-Murray works for _X_.",
+        "query": "Luca De Meo works for _X_.",
         "answer": [
             {
-                "wikidata_id": "Q214341",
-                "name": "University of Amsterdam"
+                "wikidata_id": "Q156578",
+                "name": "Volkswagen Group"
             }
-        ]
+        ],
+        "date": "2010"
     },
     {
-        "query": "Harumi Takahashi is a member of the _X_.",
+        "query": "Meng Jianzhu holds the position of _X_.",
         "answer": [
             {
-                "wikidata_id": "Q327591",
-                "name": "independent politician"
+                "wikidata_id": "Q6866288",
+                "name": "Minister of Public Security of the People's Republic of China"
+            },
+            {
+                "wikidata_id": "Q835630",
+                "name": "State Councilor of the People's Republic of China"
             }
-        ]
+        ],
+        "date": "2010"
     },
     {
-        "query": "_X_ is the chair of Ministry of Health.",
+        "query": "Tammy Baldwin holds the position of _X_.",
         "answer": [
             {
-                "wikidata_id": "Q1685267",
-                "name": "Raimondas \u0160ukys"
+                "wikidata_id": "Q13218630",
+                "name": "United States representative"
             }
-        ]
+        ],
+        "date": "2010"
     },
     {
-        "query": "Dan Holman plays for _X_.",
+        "query": "_X_ is the head of the government of Aruba.",
         "answer": [
             {
-                "wikidata_id": "Q48932",
-                "name": "Cheltenham Town F.C."
+                "wikidata_id": "Q23038705",
+                "name": "Evelyn Wever-Croes"
             }
-        ]
+        ],
+        "date": "2020"
     },
     {
-        "query": "Rachel Croson works for _X_.",
+        "query": "_X_ is the head coach of Fluminense F.C..",
         "answer": [
             {
-                "wikidata_id": "Q270222",
-                "name": "Michigan State University"
+                "wikidata_id": "Q45202501",
+                "name": "Odair Hellmann"
             }
-        ]
+        ],
+        "date": "2020"
     },
     {
-        "query": "Nunzio Galantino holds the position of _X_.",
+        "query": "Elke U. Weber works for _X_.",
         "answer": [
             {
-                "wikidata_id": "Q611644",
-                "name": "Catholic bishop"
+                "wikidata_id": "Q21578",
+                "name": "Princeton University"
             }
-        ]
+        ],
+        "date": "2020"
     },
     {
-        "query": "Sandra Jansen is a member of the _X_.",
+        "query": "_X_ is the chair of The Left.",
         "answer": [
             {
-                "wikidata_id": "Q3345044",
-                "name": "Alberta New Democratic Party"
+                "wikidata_id": "Q69346",
+                "name": "Bernd Riexinger"
+            },
+            {
+                "wikidata_id": "Q76342",
+                "name": "Katja Kipping"
             }
-        ]
+        ],
+        "date": "2020"
     },
     {
-        "query": "Juan Cuadrado plays for _X_.",
+        "query": "Klaas-Jan Huntelaar plays for _X_.",
         "answer": [
             {
-                "wikidata_id": "Q212564",
-                "name": "Colombia national football team"
+                "wikidata_id": "Q81888",
+                "name": "AFC Ajax"
             }
-        ]
+        ],
+        "date": "2020"
     }
 ]
