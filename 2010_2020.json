@@ -1,0 +1,92 @@
+[
+    {
+        "query": "Scott Kazmir plays for _X_.",
+        "answer": [
+            {
+                "wikidata_id": "Q743309",
+                "name": "Los Angeles Angels"
+            }
+        ]
+    },
+    {
+        "query": "Ole Sohn is a member of the _X_.",
+        "answer": [
+            {
+                "wikidata_id": "Q615603",
+                "name": "Socialist People's Party"
+            }
+        ]
+    },
+    {
+        "query": "Carol van Driel-Murray works for _X_.",
+        "answer": [
+            {
+                "wikidata_id": "Q214341",
+                "name": "University of Amsterdam"
+            }
+        ]
+    },
+    {
+        "query": "Harumi Takahashi is a member of the _X_.",
+        "answer": [
+            {
+                "wikidata_id": "Q327591",
+                "name": "independent politician"
+            }
+        ]
+    },
+    {
+        "query": "_X_ is the chair of Ministry of Health.",
+        "answer": [
+            {
+                "wikidata_id": "Q1685267",
+                "name": "Raimondas \u0160ukys"
+            }
+        ]
+    },
+    {
+        "query": "Dan Holman plays for _X_.",
+        "answer": [
+            {
+                "wikidata_id": "Q48932",
+                "name": "Cheltenham Town F.C."
+            }
+        ]
+    },
+    {
+        "query": "Rachel Croson works for _X_.",
+        "answer": [
+            {
+                "wikidata_id": "Q270222",
+                "name": "Michigan State University"
+            }
+        ]
+    },
+    {
+        "query": "Nunzio Galantino holds the position of _X_.",
+        "answer": [
+            {
+                "wikidata_id": "Q611644",
+                "name": "Catholic bishop"
+            }
+        ]
+    },
+    {
+        "query": "Sandra Jansen is a member of the _X_.",
+        "answer": [
+            {
+                "wikidata_id": "Q3345044",
+                "name": "Alberta New Democratic Party"
+            }
+        ]
+    },
+    {
+        "query": "Juan Cuadrado plays for _X_.",
+        "answer": [
+            {
+                "wikidata_id": "Q212564",
+                "name": "Colombia national football team"
+            }
+        ]
+    }
+]
