@@ -2,6 +2,7 @@
 
 
 Citing use of TempLama Dataset  
+  
 @article{dhingra2022time,
     author = {Dhingra, Bhuwan and Cole, Jeremy R. and Eisenschlos, Julian Martin and Gillick, Daniel and Eisenstein, Jacob and Cohen, William W.},
     title = "{Time-Aware Language Models as Temporal Knowledge Bases}",
