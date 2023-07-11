@@ -1,18 +1,5 @@
 # ambiguity_calibration
 
+In real world settings, ambiguity is constantly present. There is inherent ambiguity in language, dialogue between humans, and realworld tasks. For example, we may ask a human to "Go meet my friend at Starbucks". How do we know which Starbucks we should visit? Furthermore, an important step in achieving general artificial intelligence is human-level language understanding in autonomous agents or robots. Currently, the most likely candidates for endowing these systems with such knowledge are large language models (LLMs) like GPT-3. Thus, it is important to investigate how LLMs handle ambiguity and whether they do it in a manner that makes sense to humans. In this project, we conduct two experiments containing many tasks of varying complexity and diversity that aims to shed light into how LLMs handle ambiguity. Our results show that LLMs do handle ambiguity in a consistent and coherent manner on certain tasks, although different LLMs exhibit different behaviors regardless of the task.
 
-Citing use of TempLama Dataset  
-  
-@article{dhingra2022time,
-    author = {Dhingra, Bhuwan and Cole, Jeremy R. and Eisenschlos, Julian Martin and Gillick, Daniel and Eisenstein, Jacob and Cohen, William W.},
-    title = "{Time-Aware Language Models as Temporal Knowledge Bases}",
-    journal = {Transactions of the Association for Computational Linguistics},
-    volume = {10},
-    pages = {257-273},
-    year = {2022},
-    month = {03},
-    issn = {2307-387X},
-    doi = {10.1162/tacl_a_00459},
-    url = {https://doi.org/10.1162/tacl\_a\_00459},
-    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00459/2004543/tacl\_a\_00459.pdf},
-}
+The paper is found above titled ambig_cal.pdf
