@@ -1,0 +1,96 @@
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> x tright tright ijump
+run left and jump -> tleft x ijump
+walk right and run -> tright iwalk x
+opposite right and run and opposite left -> tright tright x tleft tleft
+opposite left after jump and run ->
+OrderedDict([('x', 0.434), ('z', 0.45)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> x tright tright ijump
+run left and jump -> tleft x ijump
+walk right and run -> tright iwalk x
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+OrderedDict([('x', 0.22), ('z', 0.684)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> x tright tright ijump
+run left and jump -> tleft x ijump
+walk right and run -> tright iwalk z
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+OrderedDict([('x', 0.102), ('z', 0.816)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> x tright tright ijump
+run left and jump -> tleft z ijump
+walk right and run -> tright iwalk z
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+OrderedDict([('x', 0.08), ('z', 0.83)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> z tright tright ijump
+run left and jump -> tleft z ijump
+walk right and run -> tright iwalk z
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+OrderedDict([('x', 0.072), ('z', 0.841)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> z tright tright
+opposite right and jump after run -> z tright tright ijump
+run left and jump -> tleft z ijump
+walk right and run -> tright iwalk z
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+OrderedDict([('x', 0.045), ('z', 0.901)])

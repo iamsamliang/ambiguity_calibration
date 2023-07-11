@@ -1,0 +1,525 @@
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump x
+text and jump -> z ijump
+text and jump -> x ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump x
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump x
+text and jump -> z ijump
+text and jump -> x ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump x
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> z ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump z
+text and jump -> z ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump x
+text and jump -> z ijump
+text and jump -> x ijump
+jump and text -> ijump z
+text and jump -> z ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump x
+text and jump -> z ijump
+text and jump -> x ijump
+jump and text -> ijump z
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump x
+text and jump -> z ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+text and jump -> z ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump z
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump x
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump z
+jump and text -> ijump x
+jump and text -> ijump x
+jump and text -> ijump x
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> z ijump
+jump and text -> ijump x
+jump and text -> ijump x
+jump and text -> ijump x
+jump and text -> ijump x
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+jump and text -> ijump x
+jump and text -> ijump x
+jump and text -> ijump x
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+jump and text -> ijump x
+text and jump -> x ijump
+
+What is text?
+A) x
+B) z
+Answer:

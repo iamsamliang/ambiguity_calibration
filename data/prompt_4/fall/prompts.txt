@@ -1,0 +1,225 @@
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> z tright tright ijump
+fall left and jump -> tleft x ijump
+walk right and fall -> tright iwalk z
+opposite right and fall and opposite left -> tright tright x tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> z tright tright ijump
+fall left and jump -> tleft x ijump
+walk right and fall -> tright iwalk z
+opposite right and fall and opposite left -> tright tright z tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> z tright tright ijump
+fall left and jump -> tleft z ijump
+walk right and fall -> tright iwalk z
+opposite right and fall and opposite left -> tright tright z tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump z iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> z tright tright ijump
+fall left and jump -> tleft z ijump
+walk right and fall -> tright iwalk z
+opposite right and fall and opposite left -> tright tright z tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump z
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump z iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> z tright tright ijump
+fall left and jump -> tleft z ijump
+walk right and fall -> tright iwalk z
+opposite right and fall and opposite left -> tright tright z tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright z tleft z
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump z
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump z iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> z tright tright ijump
+fall left and jump -> tleft z ijump
+walk right and fall -> tright iwalk z
+opposite right and fall and opposite left -> tright tright z tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk z
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright z tleft z
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump z
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump z iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> z tright tright ijump
+fall left and jump -> tleft z ijump
+walk right and fall -> tright iwalk z
+opposite right and fall and opposite left -> tright tright z tleft tleft
+opposite left after jump and fall ->
+fall and jump -> z ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk z
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright z tleft z
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump z
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump z iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> z tright tright ijump
+fall left and jump -> tleft z ijump
+walk right and fall -> tright iwalk z
+opposite right and fall and opposite left -> tright tright z tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> z tright tright ijump
+fall left and jump -> tleft x ijump
+walk right and fall -> tright iwalk x
+opposite right and fall and opposite left -> tright tright x tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> z tright tright
+opposite right and jump after fall -> x tright tright ijump
+fall left and jump -> tleft x ijump
+walk right and fall -> tright iwalk x
+opposite right and fall and opposite left -> tright tright x tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft z
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> x tright tright
+opposite right and jump after fall -> x tright tright ijump
+fall left and jump -> tleft x ijump
+walk right and fall -> tright iwalk x
+opposite right and fall and opposite left -> tright tright x tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright z
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft x
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> x tright tright
+opposite right and jump after fall -> x tright tright ijump
+fall left and jump -> tleft x ijump
+walk right and fall -> tright iwalk x
+opposite right and fall and opposite left -> tright tright x tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft z
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright x
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft x
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> x tright tright
+opposite right and jump after fall -> x tright tright ijump
+fall left and jump -> tleft x ijump
+walk right and fall -> tright iwalk x
+opposite right and fall and opposite left -> tright tright x tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright z tright z
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft x
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright x
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft x
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> x tright tright
+opposite right and jump after fall -> x tright tright ijump
+fall left and jump -> tleft x ijump
+walk right and fall -> tright iwalk x
+opposite right and fall and opposite left -> tright tright x tleft tleft
+opposite left after jump and fall ->
+fall and jump -> x ijump
+fall right and fall right -> tright x tright x
+walk and fall -> iwalk x
+opposite left and fall -> tleft tleft x
+fall right and fall left -> tright x tleft x
+opposite right and fall -> tright tright x
+fall after walk and jump -> iwalk ijump x
+opposite left and fall after jump -> ijump tleft tleft x
+jump and fall and walk -> ijump x iwalk
+opposite right after fall -> x tright tright
+opposite right and jump after fall -> x tright tright ijump
+fall left and jump -> tleft x ijump
+walk right and fall -> tright iwalk x
+opposite right and fall and opposite left -> tright tright x tleft tleft
+opposite left after jump and fall ->

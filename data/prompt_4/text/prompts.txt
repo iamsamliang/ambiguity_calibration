@@ -1,0 +1,225 @@
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump z iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> x tright tright ijump
+text left and jump -> tleft z ijump
+walk right and text -> tright iwalk z
+opposite right and text and opposite left -> tright tright x tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump z iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> x tright tright ijump
+text left and jump -> tleft z ijump
+walk right and text -> tright iwalk z
+opposite right and text and opposite left -> tright tright z tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump z iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> z tright tright ijump
+text left and jump -> tleft z ijump
+walk right and text -> tright iwalk z
+opposite right and text and opposite left -> tright tright z tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump z iwalk
+opposite right after text -> z tright tright
+opposite right and jump after text -> z tright tright ijump
+text left and jump -> tleft z ijump
+walk right and text -> tright iwalk z
+opposite right and text and opposite left -> tright tright z tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft z
+jump and text and walk -> ijump z iwalk
+opposite right after text -> z tright tright
+opposite right and jump after text -> z tright tright ijump
+text left and jump -> tleft z ijump
+walk right and text -> tright iwalk z
+opposite right and text and opposite left -> tright tright z tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft z
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft z
+jump and text and walk -> ijump z iwalk
+opposite right after text -> z tright tright
+opposite right and jump after text -> z tright tright ijump
+text left and jump -> tleft z ijump
+walk right and text -> tright iwalk z
+opposite right and text and opposite left -> tright tright z tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk z
+opposite left and text -> tleft tleft z
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft z
+jump and text and walk -> ijump z iwalk
+opposite right after text -> z tright tright
+opposite right and jump after text -> z tright tright ijump
+text left and jump -> tleft z ijump
+walk right and text -> tright iwalk z
+opposite right and text and opposite left -> tright tright z tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright z tright z
+walk and text -> iwalk z
+opposite left and text -> tleft tleft z
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft z
+jump and text and walk -> ijump z iwalk
+opposite right after text -> z tright tright
+opposite right and jump after text -> z tright tright ijump
+text left and jump -> tleft z ijump
+walk right and text -> tright iwalk z
+opposite right and text and opposite left -> tright tright z tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump z iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> x tright tright ijump
+text left and jump -> tleft z ijump
+walk right and text -> tright iwalk x
+opposite right and text and opposite left -> tright tright x tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump z iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> x tright tright ijump
+text left and jump -> tleft x ijump
+walk right and text -> tright iwalk x
+opposite right and text and opposite left -> tright tright x tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump z
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump x iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> x tright tright ijump
+text left and jump -> tleft x ijump
+walk right and text -> tright iwalk x
+opposite right and text and opposite left -> tright tright x tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright z
+text after walk and jump -> iwalk ijump x
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump x iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> x tright tright ijump
+text left and jump -> tleft x ijump
+walk right and text -> tright iwalk x
+opposite right and text and opposite left -> tright tright x tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright z tleft z
+opposite right and text -> tright tright x
+text after walk and jump -> iwalk ijump x
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump x iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> x tright tright ijump
+text left and jump -> tleft x ijump
+walk right and text -> tright iwalk x
+opposite right and text and opposite left -> tright tright x tleft tleft
+opposite left after jump and text ->
+text and jump -> z ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright x tleft x
+opposite right and text -> tright tright x
+text after walk and jump -> iwalk ijump x
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump x iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> x tright tright ijump
+text left and jump -> tleft x ijump
+walk right and text -> tright iwalk x
+opposite right and text and opposite left -> tright tright x tleft tleft
+opposite left after jump and text ->
+text and jump -> x ijump
+text right and text right -> tright x tright x
+walk and text -> iwalk x
+opposite left and text -> tleft tleft x
+text right and text left -> tright x tleft x
+opposite right and text -> tright tright x
+text after walk and jump -> iwalk ijump x
+opposite left and text after jump -> ijump tleft tleft x
+jump and text and walk -> ijump x iwalk
+opposite right after text -> x tright tright
+opposite right and jump after text -> x tright tright ijump
+text left and jump -> tleft x ijump
+walk right and text -> tright iwalk x
+opposite right and text and opposite left -> tright tright x tleft tleft
+opposite left after jump and text ->

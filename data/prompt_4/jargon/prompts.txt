@@ -1,0 +1,225 @@
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> z tright tright ijump
+jargon left and jump -> tleft x ijump
+walk right and jargon -> tright iwalk z
+opposite right and jargon and opposite left -> tright tright x tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> z tright tright ijump
+jargon left and jump -> tleft x ijump
+walk right and jargon -> tright iwalk z
+opposite right and jargon and opposite left -> tright tright z tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> z tright tright ijump
+jargon left and jump -> tleft z ijump
+walk right and jargon -> tright iwalk z
+opposite right and jargon and opposite left -> tright tright z tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> z tright tright
+opposite right and jump after jargon -> z tright tright ijump
+jargon left and jump -> tleft z ijump
+walk right and jargon -> tright iwalk z
+opposite right and jargon and opposite left -> tright tright z tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump z
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> z tright tright
+opposite right and jump after jargon -> z tright tright ijump
+jargon left and jump -> tleft z ijump
+walk right and jargon -> tright iwalk z
+opposite right and jargon and opposite left -> tright tright z tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft z
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump z
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> z tright tright
+opposite right and jump after jargon -> z tright tright ijump
+jargon left and jump -> tleft z ijump
+walk right and jargon -> tright iwalk z
+opposite right and jargon and opposite left -> tright tright z tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright z tright z
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft z
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump z
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> z tright tright
+opposite right and jump after jargon -> z tright tright ijump
+jargon left and jump -> tleft z ijump
+walk right and jargon -> tright iwalk z
+opposite right and jargon and opposite left -> tright tright z tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> z ijump
+jargon right and jargon right -> tright z tright z
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft z
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump z
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> z tright tright
+opposite right and jump after jargon -> z tright tright ijump
+jargon left and jump -> tleft z ijump
+walk right and jargon -> tright iwalk z
+opposite right and jargon and opposite left -> tright tright z tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> z tright tright ijump
+jargon left and jump -> tleft x ijump
+walk right and jargon -> tright iwalk x
+opposite right and jargon and opposite left -> tright tright x tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump z iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> x tright tright ijump
+jargon left and jump -> tleft x ijump
+walk right and jargon -> tright iwalk x
+opposite right and jargon and opposite left -> tright tright x tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft z
+jump and jargon and walk -> ijump x iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> x tright tright ijump
+jargon left and jump -> tleft x ijump
+walk right and jargon -> tright iwalk x
+opposite right and jargon and opposite left -> tright tright x tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright z
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft x
+jump and jargon and walk -> ijump x iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> x tright tright ijump
+jargon left and jump -> tleft x ijump
+walk right and jargon -> tright iwalk x
+opposite right and jargon and opposite left -> tright tright x tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright z tleft z
+opposite right and jargon -> tright tright x
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft x
+jump and jargon and walk -> ijump x iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> x tright tright ijump
+jargon left and jump -> tleft x ijump
+walk right and jargon -> tright iwalk x
+opposite right and jargon and opposite left -> tright tright x tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk z
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright x tleft x
+opposite right and jargon -> tright tright x
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft x
+jump and jargon and walk -> ijump x iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> x tright tright ijump
+jargon left and jump -> tleft x ijump
+walk right and jargon -> tright iwalk x
+opposite right and jargon and opposite left -> tright tright x tleft tleft
+opposite left after jump and jargon ->
+jargon and jump -> x ijump
+jargon right and jargon right -> tright x tright x
+walk and jargon -> iwalk x
+opposite left and jargon -> tleft tleft x
+jargon right and jargon left -> tright x tleft x
+opposite right and jargon -> tright tright x
+jargon after walk and jump -> iwalk ijump x
+opposite left and jargon after jump -> ijump tleft tleft x
+jump and jargon and walk -> ijump x iwalk
+opposite right after jargon -> x tright tright
+opposite right and jump after jargon -> x tright tright ijump
+jargon left and jump -> tleft x ijump
+walk right and jargon -> tright iwalk x
+opposite right and jargon and opposite left -> tright tright x tleft tleft
+opposite left after jump and jargon ->

@@ -1,0 +1,525 @@
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> z ijump
+jump and fall -> ijump z
+fall and jump -> z ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+fall and jump -> z ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+jump and fall -> ijump z
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> z ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump z
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump z
+jump and fall -> ijump x
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump z
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+jump and fall -> ijump x
+jump and fall -> ijump x
+jump and fall -> ijump x
+fall and jump -> x ijump
+fall and jump -> x ijump
+fall and jump -> x ijump
+jump and fall -> ijump x
+fall and jump -> x ijump
+
+What is fall?
+A) x
+B) z
+Answer:

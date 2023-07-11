@@ -1,0 +1,525 @@
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump x
+jump and run -> ijump z
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump z
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump z
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+jump and run -> ijump z
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> z ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump z
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump z
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> z ijump
+jump and run -> ijump x
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> z ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> x ijump
+jump and run -> ijump x
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+run and jump -> x ijump
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+jump and run -> ijump x
+
+What is run?
+A) x
+B) z
+Answer:

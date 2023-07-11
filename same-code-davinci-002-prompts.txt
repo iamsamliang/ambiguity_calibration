@@ -1,0 +1,119 @@
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump ->
+OrderedDict([('x', 0.743), ('z', 0.242)])
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump ->
+OrderedDict([('x', 0.447), ('z', 0.54)])
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump ->
+OrderedDict([('x', 0.479), ('z', 0.512)])
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump ->
+OrderedDict([('x', 0.405), ('z', 0.587)])
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump ->
+OrderedDict([('x', 0.474), ('z', 0.516)])
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump ->
+OrderedDict([('x', 0.301), ('z', 0.68)])
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> x jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump -> z jump
+run and jump ->
+OrderedDict([('x', 0.315), ('z', 0.67)])

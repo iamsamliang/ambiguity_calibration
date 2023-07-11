@@ -1,0 +1,225 @@
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump x
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> x tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk z
+opposite right and bacjde and opposite left -> tright tright z tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump x
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> z tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk z
+opposite right and bacjde and opposite left -> tright tright z tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump z
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> z tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk z
+opposite right and bacjde and opposite left -> tright tright z tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright z
+bacjde after walk and jump -> iwalk ijump z
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> z tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk z
+opposite right and bacjde and opposite left -> tright tright z tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright z tleft z
+opposite right and bacjde -> tright tright z
+bacjde after walk and jump -> iwalk ijump z
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> z tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk z
+opposite right and bacjde and opposite left -> tright tright z tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft z
+bacjde right and bacjde left -> tright z tleft z
+opposite right and bacjde -> tright tright z
+bacjde after walk and jump -> iwalk ijump z
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> z tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk z
+opposite right and bacjde and opposite left -> tright tright z tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright z tright z
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft z
+bacjde right and bacjde left -> tright z tleft z
+opposite right and bacjde -> tright tright z
+bacjde after walk and jump -> iwalk ijump z
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> z tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk z
+opposite right and bacjde and opposite left -> tright tright z tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> z ijump
+bacjde right and bacjde right -> tright z tright z
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft z
+bacjde right and bacjde left -> tright z tleft z
+opposite right and bacjde -> tright tright z
+bacjde after walk and jump -> iwalk ijump z
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> z tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk z
+opposite right and bacjde and opposite left -> tright tright z tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump x
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> x tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk z
+opposite right and bacjde and opposite left -> tright tright x tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump x
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> x tright tright ijump
+bacjde left and jump -> tleft z ijump
+walk right and bacjde -> tright iwalk x
+opposite right and bacjde and opposite left -> tright tright x tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump x
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> z tright tright
+opposite right and jump after bacjde -> x tright tright ijump
+bacjde left and jump -> tleft x ijump
+walk right and bacjde -> tright iwalk x
+opposite right and bacjde and opposite left -> tright tright x tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump x
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump z iwalk
+opposite right after bacjde -> x tright tright
+opposite right and jump after bacjde -> x tright tright ijump
+bacjde left and jump -> tleft x ijump
+walk right and bacjde -> tright iwalk x
+opposite right and bacjde and opposite left -> tright tright x tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump x
+opposite left and bacjde after jump -> ijump tleft tleft z
+jump and bacjde and walk -> ijump x iwalk
+opposite right after bacjde -> x tright tright
+opposite right and jump after bacjde -> x tright tright ijump
+bacjde left and jump -> tleft x ijump
+walk right and bacjde -> tright iwalk x
+opposite right and bacjde and opposite left -> tright tright x tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk z
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump x
+opposite left and bacjde after jump -> ijump tleft tleft x
+jump and bacjde and walk -> ijump x iwalk
+opposite right after bacjde -> x tright tright
+opposite right and jump after bacjde -> x tright tright ijump
+bacjde left and jump -> tleft x ijump
+walk right and bacjde -> tright iwalk x
+opposite right and bacjde and opposite left -> tright tright x tleft tleft
+opposite left after jump and bacjde ->
+bacjde and jump -> x ijump
+bacjde right and bacjde right -> tright x tright x
+walk and bacjde -> iwalk x
+opposite left and bacjde -> tleft tleft x
+bacjde right and bacjde left -> tright x tleft x
+opposite right and bacjde -> tright tright x
+bacjde after walk and jump -> iwalk ijump x
+opposite left and bacjde after jump -> ijump tleft tleft x
+jump and bacjde and walk -> ijump x iwalk
+opposite right after bacjde -> x tright tright
+opposite right and jump after bacjde -> x tright tright ijump
+bacjde left and jump -> tleft x ijump
+walk right and bacjde -> tright iwalk x
+opposite right and bacjde and opposite left -> tright tright x tleft tleft
+opposite left after jump and bacjde ->

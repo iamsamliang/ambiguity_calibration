@@ -1,0 +1,670 @@
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> x tright tright ijump
+run left and jump -> tleft x ijump
+walk right and run -> tright iwalk x
+opposite right and run and opposite left -> tright tright x tleft tleft
+opposite left after jump and run ->
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": {
+        "text_offset": [
+          635,
+          637,
+          641,
+          643,
+          647,
+          649,
+          653,
+          655
+        ],
+        "token_logprobs": [
+          -0.009729978,
+          -7.8038276e-05,
+          -0.029356329,
+          -1.1753544e-05,
+          -0.44473517,
+          -1.9028084e-05,
+          -0.15605667,
+          -0.006509627
+        ],
+        "tokens": [
+          " i",
+          "jump",
+          " t",
+          "left",
+          " t",
+          "left",
+          " x",
+          "<|endoftext|>"
+        ],
+        "top_logprobs": [
+          {
+            " i": -0.009729978,
+            "ij": -5.0566106
+          },
+          {
+            "Jump": -10.384176,
+            "jump": -7.8038276e-05
+          },
+          {
+            " t": -0.029356329,
+            " x": -3.5627005
+          },
+          {
+            " left": -12.06696,
+            "left": -1.1753544e-05
+          },
+          {
+            " t": -0.44473517,
+            " x": -1.0344435
+          },
+          {
+            " left": -11.493444,
+            "left": -1.9028084e-05
+          },
+          {
+            " x": -0.15605667,
+            " z": -1.9513751
+          },
+          {
+            "\n": -5.135446,
+            "<|endoftext|>": -0.006509627
+          }
+        ]
+      },
+      "text": " ijump tleft tleft x"
+    }
+  ],
+  "created": 1670225254,
+  "id": "cmpl-6K0AwxfOfmuwDCVsyJ3B6yN2Np9x7",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 183,
+    "total_tokens": 190
+  }
+}
+OrderedDict([('x', 0.856), ('z', 0.142)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> x tright tright ijump
+run left and jump -> tleft x ijump
+walk right and run -> tright iwalk x
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": {
+        "text_offset": [
+          635,
+          637,
+          641,
+          643,
+          647,
+          649,
+          653,
+          655
+        ],
+        "token_logprobs": [
+          -0.009549011,
+          -7.6252014e-05,
+          -0.023947634,
+          -1.1278585e-05,
+          -0.30173042,
+          -2.4510746e-05,
+          -0.6842983,
+          -0.021270938
+        ],
+        "tokens": [
+          " i",
+          "jump",
+          " t",
+          "left",
+          " t",
+          "left",
+          " z",
+          "<|endoftext|>"
+        ],
+        "top_logprobs": [
+          {
+            " i": -0.009549011,
+            "ij": -4.9985166
+          },
+          {
+            "Jump": -10.430887,
+            "jump": -7.6252014e-05
+          },
+          {
+            " t": -0.023947634,
+            " x": -3.771155
+          },
+          {
+            " left": -12.104339,
+            "left": -1.1278585e-05
+          },
+          {
+            " t": -0.30173042,
+            " x": -1.4028275
+          },
+          {
+            " left": -11.355147,
+            "left": -2.4510746e-05
+          },
+          {
+            " x": -0.7089946,
+            " z": -0.6842983
+          },
+          {
+            "\n": -4.88237,
+            "<|endoftext|>": -0.021270938
+          }
+        ]
+      },
+      "text": " ijump tleft tleft z"
+    }
+  ],
+  "created": 1670225267,
+  "id": "cmpl-6K0B9NRbQsqcIf9ucFBUDvNVqZywc",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 183,
+    "total_tokens": 190
+  }
+}
+OrderedDict([('x', 0.492), ('z', 0.504)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> x tright tright ijump
+run left and jump -> tleft x ijump
+walk right and run -> tright iwalk z
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": {
+        "text_offset": [
+          635,
+          637,
+          641,
+          643,
+          647,
+          649,
+          653,
+          655
+        ],
+        "token_logprobs": [
+          -0.011760059,
+          -7.636654e-05,
+          -0.0217032,
+          -1.2708151e-05,
+          -0.41630784,
+          -2.558363e-05,
+          -0.07578335,
+          -0.010800922
+        ],
+        "tokens": [
+          " i",
+          "jump",
+          " t",
+          "left",
+          " t",
+          "left",
+          " z",
+          "<|endoftext|>"
+        ],
+        "top_logprobs": [
+          {
+            " i": -0.011760059,
+            "ij": -4.7021112
+          },
+          {
+            "Jump": -10.408094,
+            "jump": -7.636654e-05
+          },
+          {
+            " t": -0.0217032,
+            " x": -3.8676121
+          },
+          {
+            " left": -11.996473,
+            "left": -1.2708151e-05
+          },
+          {
+            " t": -0.41630784,
+            " x": -1.1623845
+          },
+          {
+            " left": -11.241421,
+            "left": -2.558363e-05
+          },
+          {
+            " x": -2.6536736,
+            " z": -0.07578335
+          },
+          {
+            "\n": -5.008024,
+            "<|endoftext|>": -0.010800922
+          }
+        ]
+      },
+      "text": " ijump tleft tleft z"
+    }
+  ],
+  "created": 1670225281,
+  "id": "cmpl-6K0BNuftdZMFFnQRB3llJZi70LThz",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 183,
+    "total_tokens": 190
+  }
+}
+OrderedDict([('x', 0.07), ('z', 0.927)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> x tright tright ijump
+run left and jump -> tleft z ijump
+walk right and run -> tright iwalk z
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": {
+        "text_offset": [
+          635,
+          637,
+          641,
+          643,
+          647,
+          649,
+          653,
+          655,
+          655,
+          655,
+          655,
+          655,
+          655,
+          655
+        ],
+        "token_logprobs": [
+          -0.012743715,
+          -7.1481794e-05,
+          -0.023561213,
+          -9.846204e-06,
+          -0.31319875,
+          -1.6402679e-05,
+          -0.052273236,
+          -0.010530671,
+          -0.010159869,
+          -0.0006076289,
+          -1.3460717,
+          -0.00016161484,
+          -0.00050039747,
+          -0.00042436953
+        ],
+        "tokens": [
+          " i",
+          "jump",
+          " t",
+          "left",
+          " t",
+          "left",
+          " z",
+          "<|endoftext|>",
+          " \u00a7\u00a7",
+          " FILE",
+          " READ",
+          "ME",
+          ".",
+          "md"
+        ],
+        "top_logprobs": [
+          {
+            " i": -0.012743715,
+            "ij": -4.5759454
+          },
+          {
+            "Jump": -10.329653,
+            "jump": -7.1481794e-05
+          },
+          {
+            " t": -0.023561213,
+            " x": -3.7903764
+          },
+          {
+            " left": -12.230223,
+            "left": -9.846204e-06
+          },
+          {
+            " t": -0.31319875,
+            " x": -1.5126598
+          },
+          {
+            " left": -11.7775545,
+            "left": -1.6402679e-05
+          },
+          {
+            " x": -3.0115416,
+            " z": -0.052273236
+          },
+          {
+            "\n": -5.3328485,
+            "<|endoftext|>": -0.010530671
+          },
+          {
+            "\n": -5.958781,
+            " \u00a7\u00a7": -0.010159869
+          },
+          {
+            " COM": -8.993866,
+            " FILE": -0.0006076289
+          },
+          {
+            " READ": -1.3460717,
+            " src": -1.8839974
+          },
+          {
+            "EM": -10.3485775,
+            "ME": -0.00016161484
+          },
+          {
+            ".": -0.00050039747,
+            "_": -8.411363
+          },
+          {
+            "\n": -7.8759055,
+            "md": -0.00042436953
+          }
+        ]
+      },
+      "text": " ijump tleft tleft z"
+    }
+  ],
+  "created": 1670225286,
+  "id": "cmpl-6K0BS5qbprsjCY1f2eQ9Xsv2LN0bM",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 183,
+    "total_tokens": 190
+  }
+}
+OrderedDict([('x', 0.049), ('z', 0.949)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> x tright tright
+opposite right and jump after run -> z tright tright ijump
+run left and jump -> tleft z ijump
+walk right and run -> tright iwalk z
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": {
+        "text_offset": [
+          635,
+          637,
+          641,
+          643,
+          647,
+          649,
+          653,
+          655
+        ],
+        "token_logprobs": [
+          -0.028387608,
+          -7.2672e-05,
+          -0.03268659,
+          -1.0561456e-05,
+          -0.49580848,
+          -2.1051823e-05,
+          -0.06526106,
+          -0.0091946935
+        ],
+        "tokens": [
+          " i",
+          "jump",
+          " t",
+          "left",
+          " t",
+          "left",
+          " z",
+          "<|endoftext|>"
+        ],
+        "top_logprobs": [
+          {
+            " i": -0.028387608,
+            " z": -4.3409867
+          },
+          {
+            "Jump": -10.329328,
+            "jump": -7.2672e-05
+          },
+          {
+            " t": -0.03268659,
+            " x": -3.5076869
+          },
+          {
+            " left": -12.142294,
+            "left": -1.0561456e-05
+          },
+          {
+            " t": -0.49580848,
+            " x": -1.1883383
+          },
+          {
+            " left": -11.434298,
+            "left": -2.1051823e-05
+          },
+          {
+            " x": -2.7929144,
+            " z": -0.06526106
+          },
+          {
+            "\n": -5.2107096,
+            "<|endoftext|>": -0.0091946935
+          }
+        ]
+      },
+      "text": " ijump tleft tleft z"
+    }
+  ],
+  "created": 1670225293,
+  "id": "cmpl-6K0BZD1wOCWMbnUMqnWTN4RsxdMLs",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 183,
+    "total_tokens": 190
+  }
+}
+OrderedDict([('x', 0.061), ('z', 0.937)])
+run and jump -> x ijump
+run right and run right -> tright z tright z
+walk and run -> iwalk z
+opposite left and run -> tleft tleft z
+run right and run left -> tright x tleft x
+opposite right and run -> tright tright z
+run after walk and jump -> iwalk ijump x
+opposite left and run after jump -> ijump tleft tleft z
+jump and run and walk -> ijump x iwalk
+opposite right after run -> z tright tright
+opposite right and jump after run -> z tright tright ijump
+run left and jump -> tleft z ijump
+walk right and run -> tright iwalk z
+opposite right and run and opposite left -> tright tright z tleft tleft
+opposite left after jump and run ->
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": {
+        "text_offset": [
+          635,
+          637,
+          641,
+          643,
+          647,
+          649,
+          653,
+          655,
+          655,
+          655,
+          655,
+          655
+        ],
+        "token_logprobs": [
+          -0.0077209715,
+          -5.5149267e-05,
+          -0.0150227025,
+          -8.892534e-06,
+          -0.2388262,
+          -1.3185924e-05,
+          -0.024542546,
+          -0.0061954875,
+          -0.011931715,
+          -0.00063207984,
+          -1.3462228,
+          -0.00016042087
+        ],
+        "tokens": [
+          " i",
+          "jump",
+          " t",
+          "left",
+          " t",
+          "left",
+          " z",
+          "<|endoftext|>",
+          " \u00a7\u00a7",
+          " FILE",
+          " READ",
+          "ME"
+        ],
+        "top_logprobs": [
+          {
+            " i": -0.0077209715,
+            "ij": -5.200306
+          },
+          {
+            "Jump": -10.560454,
+            "jump": -5.5149267e-05
+          },
+          {
+            " t": -0.0150227025,
+            " x": -4.306904
+          },
+          {
+            " left": -12.388391,
+            "left": -8.892534e-06
+          },
+          {
+            " t": -0.2388262,
+            " x": -1.9139323
+          },
+          {
+            " left": -11.994912,
+            "left": -1.3185924e-05
+          },
+          {
+            " x": -3.7814162,
+            " z": -0.024542546
+          },
+          {
+            "\n": -5.5025606,
+            "<|endoftext|>": -0.0061954875
+          },
+          {
+            "\n": -5.8757987,
+            " \u00a7\u00a7": -0.011931715
+          },
+          {
+            " COM": -9.013647,
+            " FILE": -0.00063207984
+          },
+          {
+            " READ": -1.3462228,
+            " src": -1.8889589
+          },
+          {
+            "EM": -10.358237,
+            "ME": -0.00016042087
+          }
+        ]
+      },
+      "text": " ijump tleft tleft z"
+    }
+  ],
+  "created": 1670225299,
+  "id": "cmpl-6K0BfOz2xgUPtCEumgFBMjNGKcGWW",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 183,
+    "total_tokens": 190
+  }
+}
+OrderedDict([('x', 0.023), ('z', 0.976)])
